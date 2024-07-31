@@ -1,0 +1,62 @@
+[
+    {
+        "id": 1,
+        "name": "Samsung Galaxy S21",
+        "price": 69999,
+        "imageurl": "https://placehold.co/150x150?text=Samsung Galaxy S21"
+    },
+    {
+        "id": 2,
+        "name": "Apple iPhone 13",
+        "price": 79999,
+        "imageurl": "https://placehold.co/150x150?text=Apple iPhone 13"
+    },
+    {
+        "id": 3,
+        "name": "OnePlus 9 Pro",
+        "price": 64999,
+        "imageurl": "https://placehold.co/150x150?text=OnePlus 9 Pro"
+    },
+    {
+        "id": 4,
+        "name": "Xiaomi Mi 11 Ultra",
+        "price": 69999,
+        "imageurl": "https://placehold.co/150x150?text=Xiaomi Mi 11 Ultra"
+    },
+    {
+        "id": 5,
+        "name": "Realme GT 5G",
+        "price": 37999,
+        "imageurl": "https://placehold.co/150x150?text=Realme GT 5G"
+    },
+    {
+        "id": 6,
+        "name": "Asus ROG Phone 5",
+        "price": 49999,
+        "imageurl": "https://placehold.co/150x150?text=Asus ROG Phone 5"
+    },
+    {
+        "id": 7,
+        "name": "Google Pixel 6",
+        "price": 62999,
+        "imageurl": "https://placehold.co/150x150?text=Google Pixel 6"
+    },
+    {
+        "id": 8,
+        "name": "Vivo X60 Pro",
+        "price": 49990,
+        "imageurl": "https://placehold.co/150x150?text=Vivo X60 Pro"
+    },
+    {
+        "id": 9,
+        "name": "Oppo Find X3 Pro",
+        "price": 69990,
+        "imageurl": "https://placehold.co/150x150?text=Oppo Find X3 Pro"
+    },
+    {
+        "id": 10,
+        "name": "Sony Xperia 1 III",
+        "price": 84990,
+        "imageurl": "https://placehold.co/150x150?text=Sony Xperia 1 III"
+    }
+]
