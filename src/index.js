@@ -7,6 +7,8 @@ import { store } from './redux/store';
 import reportWebVitals from './reportWebVitals';
 
 const root = ReactDOM.createRoot(document.getElementById('root'));
+console.log(store);
+
 root.render(
   <React.StrictMode>
     <Provider store={store}>
